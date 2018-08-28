@@ -11,15 +11,15 @@ a{
 	text-transform: uppercase;
 }
 .navbar-light .navbar-nav .nav-link:hover{
-	color:#ff5518;
+	color:#e2717e;
 }
 .navbar-light .navbar-nav .active .nav-link{
 	background-color:transparent;
-	color:#ff5518;
+	color:#e2717e;
 }
 .navbar-light .navbar-nav .active .nav-link:hover{
 	background-color:transparent;
-	color:#ff5518;
+	color:#e2717e;
 }
 
 
